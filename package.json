@@ -1,0 +1,91 @@
+{
+  "name": "boletin-estudiantil",
+  "version": "2.0.0",
+  "description": "Sistema de gestión de calificaciones estudiantiles moderno y seguro con diseño único y personalizado",
+  "main": "boletin.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server --port=8000 --open=boletin.html",
+    "build": "echo 'Proyecto estático - no requiere build'",
+    "test": "echo 'No hay tests configurados aún'",
+    "lint": "echo 'No hay linter configurado aún'",
+    "format": "prettier --write '*.{html,css,js,md}'"
+  },
+  "keywords": [
+    "educación",
+    "calificaciones",
+    "boletín",
+    "estudiantes",
+    "bootstrap",
+    "javascript",
+    "html5",
+    "css3",
+    "seguridad",
+    "gradientes",
+    "animaciones",
+    "diseño-único",
+    "glassmorphism",
+    "responsive"
+  ],
+  "author": {
+    "name": "Exequiel Echevarria",
+    "email": "exequiel.echevarria@example.com",
+    "url": "https://github.com/tu-usuario"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/boletin-estudiantil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/boletin-estudiantil/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/boletin-estudiantil#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "font-awesome": "^6.5.0"
+  },
+  "features": {
+    "security": [
+      "Content Security Policy",
+      "XSS Prevention",
+      "Input Validation",
+      "Security Headers"
+    ],
+    "ui": [
+      "Bootstrap 5.3.3",
+      "CSS Personalizado",
+      "Font Awesome",
+      "Responsive Design",
+      "Dark Mode Support",
+      "Gradientes",
+      "Animaciones",
+      "Glassmorphism"
+    ],
+    "javascript": [
+      "ES6+ Classes",
+      "Async/Await",
+      "Event Listeners",
+      "Error Handling",
+      "Keyboard Shortcuts"
+    ]
+  },
+  "contributors": [
+    {
+      "name": "Exequiel Echevarria",
+      "email": "exequiel.echevarria@example.com"
+    }
+  ]
+} 
