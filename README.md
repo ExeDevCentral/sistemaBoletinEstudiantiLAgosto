@@ -214,9 +214,11 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- **Email**: [tu-email@ejemplo.com]
-- **LinkedIn**: [tu-linkedin]
-- **GitHub**: [tu-github]
+- **Email**: exemetal@hotmail.com /// contacto@exepaginasweb.com
+- **LinkedIn**: www.linkedin.com/in/exequiel-echevarria
+
+
+- **GitHub**: [Exe](https://github.com/ExeDevCentral)
 
 ---
 
