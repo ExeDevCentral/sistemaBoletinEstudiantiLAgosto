@@ -218,7 +218,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - **LinkedIn**: www.linkedin.com/in/exequiel-echevarria
 
 
-- **GitHub**: [Exe](https://github.com/ExeDevCentral)
+- **GitHub**: https://github.com/ExeDevCentral
 
 ---
 
