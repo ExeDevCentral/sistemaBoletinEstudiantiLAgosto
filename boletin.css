@@ -715,3 +715,37 @@ body {
         color: black !important;
     }
 }
+/* Tablet and Mobile Compact Card Adjustments */
+@media (max-width: 992px) {
+    .custom-header {
+        padding: 1.5rem 0.5rem;
+    }
+    .main-title {
+        font-size: clamp(1.5rem, 4vw, 2.2rem) !important;
+    }
+    .stats-container {
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .logo-image {
+        width: 70px !important;
+        height: 70px !important;
+    }
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    .grades-grid {
+        grid-template-columns: 1fr !important;
+    }
+    .action-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .custom-btn {
+        width: 100% !important;
+        min-height: 48px;
+    }
+}
